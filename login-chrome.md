@@ -48,4 +48,4 @@ luogu.com.cn
 在LuoGuCmd中输入login,回车，按照提示输入（粘贴）__client_id以及_uid的内容
 
 ### Step 8
-在LuoGuCmd中输入me，如果成功出现了你的个人信息(且没有报错)，那么恭喜，你登录成功来
+在LuoGuCmd中输入me，如果成功出现了你的个人信息(且没有报错)，那么恭喜，你登录成功了～
