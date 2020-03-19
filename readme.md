@@ -90,6 +90,7 @@ https
 node-fetch
 readline
 cheerio
+node-localstorage
 ```
 -------------------------------------------------------
 
